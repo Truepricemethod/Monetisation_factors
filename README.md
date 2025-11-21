@@ -4,7 +4,7 @@
 
 ![Scope: Global](https://img.shields.io/badge/Scope-Global-blueviolet)
 ![Data Type: Open](https://img.shields.io/badge/Data%20Type-Open-blue)
-![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)
+![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)
 
 # True Price
 
@@ -12,16 +12,16 @@ Revealing the social & environmental costs behind products and services — and 
 
 **Website:** https://truepricefoundation.org • **Contact:** info@trueprice.org
 
-## 📁 What we publish
+## 📁 Monetisation Factors for True Pricing
 
-- **Methodology:** Monetisation Factors for True Pricing
-- **Open Datasets:** Inputs and example results
-- **Tools:** Code and notebooks for analysis & reporting
+- **Report:** Monetisation Factors for True Pricing
+- **Open Dataset:** 78 monetisation factors for social & environmental impacts
+- **Calculation trees:** Shows the calculation process to derive each monetisation factor
 
 ## Get started
 
-1. Explore our pinned repositories below.
-2. Read the `methodology` repo for concepts and definitions.
+1. Explore our repositories.
+2. Read the `Monetisation Factors for True Pricing` report for context and definitions.
 
 ## Contribute
 
@@ -39,7 +39,7 @@ Learn more about our mission, methodologies, and impact at:
 ---
 
 ##📜 License
-All materials published in this organization are shared under the CC BY-NC-ND 4.0 You may share this dataset with attribution, but modification and commercial use are not permitted, unless otherwise noted.
+All materials published in this organization are shared under the CC BY 4.0 You may share this dataset with attribution, but modification and commercial use are not permitted, unless otherwise noted.
 
 ---
 
