@@ -4,7 +4,7 @@
 
 ![Scope: Global](https://img.shields.io/badge/Scope-Global-blueviolet)
 ![Data Type: Open](https://img.shields.io/badge/Data%20Type-Open-blue)
-![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)
+![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)
 
 # True Price
 
