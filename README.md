@@ -14,14 +14,16 @@ Revealing the social & environmental costs behind products and services — and 
 
 ## 📁 Monetisation Factors for True Pricing
 
-- **Report:** Monetisation Factors for True Pricing
-- **Open Dataset:** 78 monetisation factors for social & environmental impacts
+- **Report:** Monetisation Factors for True Pricing https://www.truepricefoundation.org/publications/monitisation-factors-for-true-pricing/
+- **Open Dataset:** 78 monetisation factors for social & environmental impacts, version 4.0.2
 - **Calculation trees:** Shows the calculation process to derive each monetisation factor
+
 
 ## Get started
 
 1. Explore our repositories.
 2. Read the `Monetisation Factors for True Pricing` report for context and definitions.
+
 
 ## Contribute
 
@@ -39,7 +41,7 @@ Learn more about our mission, methodologies, and impact at:
 ---
 
 ##📜 License
-All materials published in this organization are shared under the CC BY 4.0 You may share this dataset with attribution, but modification and commercial use are not permitted, unless otherwise noted.
+All materials published in this organization are shared under the CC BY 4.0 You may share and adapt this dataset, also commercially, as long as you credit us appropriately.
 
 ---
 
