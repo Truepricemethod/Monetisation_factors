@@ -40,8 +40,11 @@ Learn more about our mission, methodologies, and impact at:
 
 ##📜 License
 All materials published in this organization are shared under the CC BY 4.0 You may share this dataset with attribution, but modification and commercial use are not permitted, unless otherwise noted.
+More info: https://creativecommons.org/licenses/by/4.0/deed.en
 
----
+**Suggested citation:
+True Price Foundation, 2025: Monetisation Factors for True Pricing Version 4.0.2 (Authors: Galgani et al.). Amsterdam.
+**---
 
 ## 📬 Contact
 
